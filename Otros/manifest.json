@@ -1,0 +1,12 @@
+{
+  "name": "estructura",
+  "id": "4282804",
+  "description": "",
+  "gitUrl": "",
+  "workspaceType": "cpp",
+  "dockerBaseImage": "cloud9/ws-cpp:2016-11-01T05-38-41Z",
+  "owner": {
+    "name": "alejandratub",
+    "id": "901525"
+  }
+}
